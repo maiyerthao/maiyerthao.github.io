@@ -3,6 +3,12 @@ p {
    font-family: Calibri; sans serif;
 }
 
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
 hr {
    color: #D3D3D3;
 }
