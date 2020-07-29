@@ -3,6 +3,7 @@ body {
    flex-direction: wrap;
    border: 2px solid black;
    padding-left: 35px;
+   padding-right: 35px;
 }
 
 
@@ -20,16 +21,20 @@ hr {
 }
 
 
-
-
 h1 {
    padding-top: 35px;
    padding-left: 35px;
 
    
+h2 {
+   padding-left: 35px;
+}
+ 
    
    
 h3 {
    padding-left: 35px;
 }
 
+
+   
