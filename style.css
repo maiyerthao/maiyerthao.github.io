@@ -7,10 +7,12 @@ body {
 p {
    color: black;
    font-family: Calibri; sans serif;
+   padding: 35px;
 }
 
 
 hr {
    color: #D3D3D3;
+   padding: 35px;
 }
 
