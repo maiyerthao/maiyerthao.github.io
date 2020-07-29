@@ -2,7 +2,9 @@ body {
    background-color: #FDEDEC;
    flex-direction: wrap;
    border: 2px solid black;
+   padding-left: 35px;
 }
+
 
 p {
    color: black;
@@ -11,14 +13,22 @@ p {
 }
 
 
+
 hr {
    color: #D3D3D3;
    padding-left: 35px;
 }
 
+
+
+
 h1 {
    padding-top: 35px;
+   padding-left: 35px;
 
+   
+   
+   
 h3 {
    padding-left: 35px;
 }
