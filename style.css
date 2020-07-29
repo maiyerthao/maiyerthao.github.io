@@ -1,7 +1,7 @@
 body {
    background-color: #FDEDEC;
    flex-direction: wrap;
-   border: 2px solid black;
+   border: 5px solid grey;
    padding-left: 35px;
    padding-right: 35px;
 }
