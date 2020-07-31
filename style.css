@@ -27,14 +27,14 @@ h1 {
    font-family: Calibri; sans serif;
    padding-top: 35px;
    padding-left: 35px;
-   font-size: 50px;
+   font-size: 55px;
 }
 
    
 h2 {
    padding-left: 35px;
    font-family: Calibri; sans serif;
-   font-size: 40px;
+   font-size: 45px;
 }
  
    
@@ -42,6 +42,7 @@ h2 {
 h3 {
    padding-left: 35px;
    font-family: Calibri; sans serif;
+   font-size: 40px;
 }
 
 ul {
