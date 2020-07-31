@@ -3,14 +3,14 @@ body {
    border: 2px solid grey;
    padding-left: 35px;
    padding-right: 35px;
-   font-family: Calibri; sans serif;
+   font-family: Calibri, sans serif;
    margin: 100px;
 }
 
 
 p {
    color: black;
-   font-family: Calibri; sans serif;
+   font-family: Calibri, sans serif;
    padding-left: 35px;
    padding-right: 35px;
 }
@@ -24,7 +24,7 @@ hr {
 
 
 h1 {
-   font-family: Calibri; sans serif;
+   font-family: Calibri, sans serif;
    padding-top: 35px;
    padding-left: 35px;
    font-size: 55px;
@@ -33,7 +33,7 @@ h1 {
    
 h2 {
    padding-left: 35px;
-   font-family: Calibri; sans serif;
+   font-family: Calibri, sans serif;
    font-size: 45px;
 }
  
@@ -41,7 +41,7 @@ h2 {
    
 h3 {
    padding-left: 35px;
-   font-family: Calibri; sans serif;
+   font-family: Calibri, sans serif;
    font-size: 40px;
 }
 
